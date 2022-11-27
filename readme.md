@@ -1,6 +1,6 @@
 # NeuroStartUp
 
-![NeuroStartUp](https://www.google.com/search?q=NeuroStartUp&tbm=isch&ved=2ahUKEwjO-_bBsc77AhXPo4sKHYfaDNEQ2-cCegQIABAA&oq=NeuroStartUp&gs_lcp=CgNpbWcQAzIHCAAQgAQQGFAAWABg2wNoAHAAeACAAUuIAUuSAQExmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=UluDY86KN8_HrgSHtbOIDQ&bih=754&biw=1536&rlz=1C1GCEU_ruRU1030RU1030#imgrc=XvtgOXd-gg_KsM)
+![NeuroStartUp](https://www.google.com/search?q=NeuroStartUp&tbm=isch&ved=2ahUKEwjO-_bBsc77AhXPo4sKHYfaDNEQ2-cCegQIABAA&oq=NeuroStartUp&gs_lcp=CgNpbWcQAzIHCAAQgAQQGFAAWABg2wNoAHAAeACAAUuIAUuSAQExmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=UluDY86KN8_HrgSHtbOIDQ&bih=754&biw=1536&rlz=1C1GCEU_ruRU1030RU1030#imgrc=XvtgOXd-gg_KsM./logo.png)
 
 *NeuroStartUp* — динамически развивающийся стартап, специализирующийся на поиске с использованием 
  новейших технологий искусственного интеллекта.
